@@ -45,6 +45,26 @@
 } */
 
 /* General Sibling Selector */
-h1~p {
+/* h1~p {
     background-color: blanchedalmond;
+}
+
+#specificPara {
+    background-color: aqua;
+}
+
+div+p {
+    background-color: blue;
+}
+
+.group {
+    background-color: brown;
+} */
+
+.mainDiv {
+    font-family: 'Courier New';
+}
+
+#specificPara {
+    font-family: inherit;
 }
